@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Exercise Test Extension",
+  "version": "1.0",
+  "description": "Generate a test with a custom number of exercises and a time limit.",
+  "permissions": ["storage", "activeTab"],
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "background": {
+    "service_worker": "background.js"
+  }
+}
