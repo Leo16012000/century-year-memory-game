@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Exercise Test Extension",
+  "name": "Century Year Memory Game",
   "version": "1.0",
   "description": "Generate a test with a custom number of exercises and a time limit.",
   "permissions": ["storage", "activeTab"],
